@@ -18,13 +18,6 @@ The primary objectives of this EDA are as follows:
 
 The analysis was performed using Python programming language and various libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data manipulation, visualization, and statistical analysis.
 
-## File Structure
-
-- `data/`: Directory containing the dataset file(s).
-- `notebooks/`: Directory containing Jupyter notebooks for data analysis.
-- `figures/`: Directory containing visualizations generated during the analysis.
-- `README.md`: Markdown file providing an overview of the project and instructions for running the analysis.
-
 ## Instructions
 
 To replicate the analysis or explore the dataset further, follow these steps:
